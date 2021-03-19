@@ -3,9 +3,11 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        face detection: 3
+        color: 1
+        skin: 1
+        Neuro Linguistic Programing: 2
+        anomaly detection: 2
 
 # 通知の閾値
 score_threshold: 0
