@@ -5,7 +5,8 @@ subject: 'cat:cs.*'
 keywords:
         face detection: 3
         color: 1
-        skin: 1
+        skin: 3
+        hair: 3
         Neuro Linguistic Programing: 2
         anomaly detection: 2
 
