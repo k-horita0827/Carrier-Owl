@@ -3,12 +3,14 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        face detection: 3
+        face detection: 2
         color: 1
-        skin: 3
-        hair: 3
+        skin: 1
+        hair: 1
         Neuro Linguistic Programing: 2
         anomaly detection: 2
+        Natural language processing: 3
+        Semantic Segmentation: 2
 
 # 通知の閾値
 score_threshold: 0
